@@ -21,4 +21,4 @@ The generated password is displayed in a text area.
 To use the password generator, simply click the "Generate Password" button. You will then be prompted to choose the length of the password and which character types to include. After selecting your options, the password will be generated and displayed in the text area.
 
 ## Demo
-You can try out the password generator by visiting this link [title](https://www.example.com).
+You can try out the password generator by visiting this link: [RandomPasswordGenerator](https://enduringtimes.github.io/random-password-gen/).
