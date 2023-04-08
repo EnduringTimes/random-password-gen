@@ -1,4 +1,4 @@
-![password generator](develop\assets\images)
+![password generator](rpg.png)
 
 # Password Generator
 This is a simple password generator that generates a random password based on the user's input.
